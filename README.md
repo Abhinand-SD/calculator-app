@@ -16,11 +16,11 @@ JavaScript – Logic for calculations
 
 How to Use
 
-Clone the repository: git clone https://github.com/your-username/calculator.git
+Clone the repository: [git clone](https://github.com/Abhinand-SD/calculator-app.git)
 Open index.html in a browser.
 Start performing calculations!
 
 Live Demo
 
-Click here to view (Add the live demo link if hosted)
+Click here to view https://abhinand-sd.github.io/calculator-app/
 
