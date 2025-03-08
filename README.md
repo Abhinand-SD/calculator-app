@@ -2,7 +2,8 @@
 
 A simple and responsive calculator built using HTML, CSS, and JavaScript. This project provides basic arithmetic operations like addition, subtraction, multiplication, and division.
 
-Features
+# Features
+
 ✅ User-friendly interface
 
 ✅ Supports basic arithmetic operations (+, -, ×, ÷)
@@ -13,7 +14,8 @@ Features
 
 ✅ Interactive button clicks and smooth UI experience
 
-Technologies Used
+
+# Technologies Used
 
 HTML – Structure of the calculator
 
@@ -21,7 +23,8 @@ CSS – Styling and responsiveness
 
 JavaScript – Logic for calculations
 
-How to Use
+
+# How to Use
 
 1.Clone the repository: [git clone](https://github.com/Abhinand-SD/calculator-app.git)
 
@@ -29,7 +32,8 @@ How to Use
 
 3.Start performing calculations!
 
-Live Demo
+
+# Live Demo
 
 Click here to view: https://abhinand-sd.github.io/calculator-app/
 
